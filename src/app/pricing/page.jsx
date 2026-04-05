@@ -276,7 +276,7 @@ export default function PricingPage() {
           border: `0.5px solid ${bdr}`,
           fontSize: 11, color: sub,
         }}>
-          <span>🔒</span> Secure payments via <strong style={{ color: txt }}>Razorpay</strong> · UPI · Cards · Net Banking
+          <span>🔒</span> Secure platform · Enterprise-grade infrastructure
         </div>
       </div>
 
